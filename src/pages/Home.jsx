@@ -1,5 +1,5 @@
 import React from "react";
-import Demo from "../assets/demo.png";
+import Demo from "../assets/Demo.png";
 import About from "../pages/About";
 import Projects from "./Projects";
 import Contact from "../pages/Contact";
