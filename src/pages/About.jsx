@@ -6,7 +6,7 @@ import {
   FaFacebook,
   FaInstagram,
 } from "react-icons/fa";
-import Demo from "../assets/demo.png";
+import Demo from "../assets/Demo.png";
 
 const About = () => {
   return (
